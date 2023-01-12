@@ -5,7 +5,7 @@ if version > 580
   endif
 endif
 
-"set t_Co=256
+set t_Co=256
 let g:colors_name = "stylish"
 
 hi Cursor guifg=#262626 guibg=#d7ffff guisp=#d7ffff gui=NONE ctermfg=234 ctermbg=195 cterm=NONE
