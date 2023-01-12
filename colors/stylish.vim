@@ -40,8 +40,8 @@ hi Include guifg=#db402c guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE
 hi Macro guifg=#db402c guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 hi Exception guifg=#db402c guibg=NONE guisp=NONE gui=NONE ctermfg=167 ctermbg=NONE cterm=NONE
 
-hi Conditional guifg=#ffaf5f guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
-hi Repeat guifg=#ffaf5f guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
+hi Conditional guifg=#ffd55d guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
+hi Repeat guifg=#ffd55d guibg=NONE guisp=NONE gui=NONE ctermfg=215 ctermbg=NONE cterm=NONE
 
 hi rubySymbol guifg=#b8d977 guibg=NONE guisp=NONE gui=NONE ctermfg=156 ctermbg=NONE cterm=NONE
 hi rubyStringDelimiter guifg=#448544 guibg=NONE guisp=NONE gui=NONE ctermfg=28 ctermbg=NONE cterm=NONE
