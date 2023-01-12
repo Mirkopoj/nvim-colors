@@ -15,7 +15,7 @@ hi NonText guifg=#949494 guibg=NONE guisp=NONE gui=NONE ctermfg=246 ctermbg=NONE
 
 hi Normal guifg=#e0e0e0 guibg=NONE guisp=#26292c gui=NONE ctermfg=254 ctermbg=235 cterm=NONE
 hi LineNr guifg=#515253 guibg=NONE guisp=#2c2f31 gui=NONE ctermfg=239 ctermbg=236 cterm=NONE
-hi CursorLineNr guifg=#e0c82f guibg=NONE guisp=#2c2f31 gui=NONE ctermfg=239 ctermbg=236 cterm=NONE
+hi CursorLineNR guifg=#e0c82f guibg=NONE guisp=#2c2f31 gui=NONE ctermfg=239 ctermbg=236 cterm=NONE
 
 hi Comment guifg=#60666b guibg=NONE guisp=NONE gui=NONE ctermfg=242 ctermbg=NONE cterm=NONE
 hi Todo guifg=#798188 guibg=NONE guisp=NONE gui=bold ctermfg=66 ctermbg=NONE cterm=bold
